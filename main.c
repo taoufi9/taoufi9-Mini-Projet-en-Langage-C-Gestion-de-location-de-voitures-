@@ -949,7 +949,7 @@ pfclt = fopen("client.txt","rb+");
             printf("\t\t\t|    Modifier client..........3|\n");
             printf("\t\t\t|    Supprimer client.........4|\n");
             printf("\t\t\t|    Retour...................5|\n");
-            printf("\t\t\t\ Votre choix :");
+            printf("\t\t\t Votre choix :");
             scanf("%d",&choix);
             switch(choix)
                 {
