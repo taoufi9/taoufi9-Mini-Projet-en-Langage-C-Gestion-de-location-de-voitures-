@@ -409,7 +409,7 @@ int choix;
     printf("\t\t\t|    Modifier contrat.........4|\n");
     printf("\t\t\t|    Supprimer Contrat........5|\n");
     printf("\t\t\t|    Retour...................6|\n");
-    printf("\t\t\t\ Votre choix :");
+    printf("\t\t\t Votre choix :");
     scanf("%d",&choix);
     switch(choix)
     {
