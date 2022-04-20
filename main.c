@@ -982,7 +982,7 @@ int choix;
         printf("\t\t\t|    Gestion voitures.........2|\n");
         printf("\t\t\t|    Gestion clients..........3|\n");
         printf("\t\t\t|    Quitter..................4|\n");
-        printf("\t\t\t\ Votre choix :");
+        printf("\t\t\t Votre choix :");
         scanf("%d",&choix);
         switch(choix)
         {
