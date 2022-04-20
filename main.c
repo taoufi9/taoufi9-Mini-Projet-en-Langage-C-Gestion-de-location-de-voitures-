@@ -676,7 +676,7 @@ int n;
     printf("\t\t\t|    Supprimer voiture........4|\n");
     printf("\t\t\t|    Retour...................5|\n");
     do{
-        printf("\t\t\t\ Votre choix :");
+        printf("\t\t\t  Votre choix :");
         scanf("%d",&choix);
         switch(choix)
         {
