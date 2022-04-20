@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1650401220 source:c:\users\lenovo\onedrive\documents\s4\projet\projet.taoufiq\struct.c
+
+1650401353 source:c:\users\lenovo\onedrive\documents\s4\projet\projet.taoufiq\menu.c
+
+1650409077 source:c:\users\lenovo\onedrive\documents\s4\projet\projet.taoufiq\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
