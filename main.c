@@ -457,7 +457,7 @@ void liste_voitures(FILE* pf) {
      printf("\t\t\tnombre des places :  %d \n",V.nbplaces);
      printf("\t\t\tPrix par Jour     : %d \n",V.prixJour);
      printf("\t\t\tEn Location ?     : %s\n",V.EnLocation);
-     printf("\t\t\t------------------------------\n");
+     printf("\t\t\t--------------------------------\n");
    }
     fseek(pf, 0, SEEK_SET);
 	fclose(pf);
